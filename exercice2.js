@@ -35,7 +35,7 @@ console.log(myWatchedSeries);
 
 /* retourner la troisième lettre de "money heist" */
 
-console.log(myWatchedSeries[2][3]);
+console.log(myWatchedSeries[1][2]);
 
 /* affichage du tableau */
 
